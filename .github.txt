@@ -1,1 +1,12 @@
 error.log
+/dir/
+
+static/text.txt
+
+
+/dir/
+
+
+
+
+dynamic/tst.txt
